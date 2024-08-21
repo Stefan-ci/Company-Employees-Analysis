@@ -1,5 +1,7 @@
 # Company's employees - Analysis with Dash
 
+A simple Dash app to analyze a given company's employees
+
 
 ## Dataset
 
